@@ -1,0 +1,41 @@
+h1{
+	text-align: center;
+}
+#content {
+	background-color:  mediumorchid;
+	padding-rigth: 10px;
+
+}
+#container {
+	border: 1px solid black;
+	margin: 40px;
+	width: 300px;
+	background-color: mediumorchid;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+#header {
+	position: relative;
+	margin-left: auto;
+	background-color: pink;
+	border: 1px solid black;
+	width: 100px;
+}
+h2 {
+	text-align: center;
+	margin:  0px;
+}
+#header2 {
+	position: relative;
+	margin-left: auto;
+	background-color: palevioletred;
+	border: 1px solid black;
+	width: 100px;
+}
+#header3 {
+	position: relative;
+	margin-left: auto;
+	background-color: lightgoldenrodyellow;
+	border: 1px solid black;
+	width: 100px;
+}
